@@ -23,3 +23,5 @@ Task-3: Student-Grade-Calculator Language: Core Java IDE: vscode
 Calculated final grades using weighted averages for different exam components.
 
 Included validation to prevent incorrect or out-of-range inputs.
+
+<img width="1041" height="591" alt="image" src="https://github.com/user-attachments/assets/4dafc773-6b82-46c2-8559-d3213ba2e513" />
