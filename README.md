@@ -25,3 +25,9 @@ Calculated final grades using weighted averages for different exam components.
 Included validation to prevent incorrect or out-of-range inputs.
 
 <img width="1041" height="591" alt="image" src="https://github.com/user-attachments/assets/4dafc773-6b82-46c2-8559-d3213ba2e513" />
+
+<img width="1043" height="602" alt="image" src="https://github.com/user-attachments/assets/7d5ab73d-6034-400c-839d-61710570b921" />
+
+<img width="1046" height="592" alt="image" src="https://github.com/user-attachments/assets/a5b137b0-4fc2-460a-9adc-edb77fcd7c03" />
+
+
